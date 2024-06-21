@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.93.0"
+  }
+}
